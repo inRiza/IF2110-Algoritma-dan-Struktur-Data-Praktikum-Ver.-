@@ -1,6 +1,7 @@
 # DOCUMENTATION OF PRAKTIKUM ALGORITMA DAN STRUKTUR DATA
 > [!NOTE]
 > This repository and source code mainly use Bahasa. This is so viewers can be more relevant to the topic being discussed.
+
 > [!WARNING]
 > This repository was created for only educational purposes and not for any commercial use. Use it properly while it's public!
 
