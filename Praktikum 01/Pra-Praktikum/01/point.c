@@ -7,8 +7,8 @@
 #include <math.h>
 
 /* *** Notasi Akses: Selektor POINT *** */
-#define Absis(P) (P).X
-#define Ordinat(P) (P).Y
+//#define Absis(P) (P).X
+//#define Ordinat(P) (P).Y
 
 /* *** DEFINISI PROTOTIPE PRIMITIF *** */
 /* *** Konstruktor membentuk POINT *** */
